@@ -97,6 +97,17 @@ div.campo > input:focus-within {
     background-color: white;
 }
 
+div#formulario > h1 {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 2em;
+}
+
+
+div#formulario > p {
+    font-size: 1.2em;
+}
+
 
 form > input[type=submit] {
     display: block;
